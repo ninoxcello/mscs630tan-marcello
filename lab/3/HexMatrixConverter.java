@@ -5,7 +5,7 @@
   * assignment: lab 3 (part 2)
   * due date: March 1, 2017
   * 
-  * This file contains a program converts each character of a  
+  * This file contains a program that converts each character of a  
   * string input into hexadecimal values, stores them in a 4 x 4
   * matrix (array) and prints the the array. 
   */
@@ -21,7 +21,7 @@ import java.util.Scanner;
   * display the results in a grid-like formation.
   */
 public class HexMatrixConverter {
-	
+
   /**
     * getHexMatP
     * 
