@@ -93,7 +93,7 @@ public class StringToInt {
     map.put('X', 23);
     map.put('Y', 24);
     map.put('Z', 25);
-	map.put(' ', 26);
+    map.put(' ', 26);
     int i = 0;
     for (char c : str.toCharArray()) {
       int val = map.get(c);
